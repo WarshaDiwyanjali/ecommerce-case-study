@@ -1,13 +1,3 @@
-"""
-generate_case_study_notebook.py
---------------------------------
-Builds the full ecommerce_case_study_analysis.ipynb notebook
-from structured cells.
-
-Run:
-    python scripts/generate_case_study_notebook.py
-"""
-
 from __future__ import annotations
 
 import json
